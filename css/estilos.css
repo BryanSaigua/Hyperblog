@@ -22,7 +22,7 @@ padding: 0.6em;
 
 #cabecera #logo
 {
-  width: 25px;
+  width: 20px;
   vertical-align: middle;
 
 
@@ -45,9 +45,9 @@ padding: 0.6em;
   margin: 0 auto;
 }
 
-#container h1
+#container 
 {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 #post
