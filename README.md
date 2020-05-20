@@ -11,4 +11,5 @@ En este curso vemos todo:
 * Las personalidad multpiles de Fredyy
 * creando por el increible platzi team
 * incluye dddddd
+* disponible
 Y como un amable recordatorio: **Este readme.md es un chiste** [**ve a verlo**](http://platzi.com/cursos/git-github/)
