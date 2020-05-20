@@ -9,5 +9,6 @@ En este curso vemos todo:
 * El verdadero amor por las beuanss paracticas
 * Trucos muy locos del profesor
 * Las personalidad multpiles de Fredyy
+* creando por el increible platzi team
 
 Y como un amable recordatorio: **Este readme.md es un chiste** [**ve a verlo**](http://platzi.com/cursos/git-github/)
